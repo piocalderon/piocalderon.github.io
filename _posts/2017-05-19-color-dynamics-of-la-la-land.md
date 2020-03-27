@@ -6,7 +6,7 @@ excerpt: Is there a synchronized dance between seasons and colors in La La Land?
 ---
 ![](https://madeleinelovesmoviesdotcom.files.wordpress.com/2017/01/la-la-land.jpg)
 
-La La Land is an absolute gem of the movie. Though it didn't win the top prize at the Oscars (Moonlight was also great), it was certainly the most enjoyable cinematic experience for me. The visuals, the music, the acting: all 10s in my book. Watching the movie for the first time, what struck me the most was how vivid the colors on the screen were, and how different scenes in the movie were accompanied with distinct colors as if they were deliberately paired. {% include pullquote.html quote="Is there a synchronized dance between seasons and colors?" %} 
+La La Land is an absolute gem of a movie. Though it didn't win the top prize at the Oscars (Moonlight was also great), it was the most memorable cinematic experience of the year for me. The visuals, the music, the acting: all 10s in my book. Watching the movie for the first time, what struck me the most was how vivid the colors on the screen were, and how different scenes in the movie were accompanied with distinct colors as if they were deliberately paired. {% include pullquote.html quote="Is there a synchronized dance between seasons and colors?" %} 
 
 With the movie presented as a narrative of five chapters - Winter, Spring, Summer, Fall, and Winter 5 years later - my hypothesis is that distinct colors are matched with the five chapters. Is there a synchronized dance between seasons and colors? Using some basic video processing and unsupervised learning, my aim is to visualize how the dominant colors of the movie frames change throughout the running time.
 
@@ -14,7 +14,7 @@ I was able to decompose the movie into a flat range of colors, where dominant co
 
 ![](/images/20170519/00.png)
 
-Apart from being really pretty, the resulting image could help us put a correspondence between colors and scenes (and correspondingly, emotions) in the movie. Let's do just that.
+Apart from being really pretty, the resulting image could help us put a correspondence between colors and movie scenes (and correspondingly, emotions). Let's do just that.
 
 # Dissecting the Color Spectrum
 
@@ -49,7 +49,7 @@ Mia and Seb's relationship blossomed in spring. From initial annoyance to the fi
 
 **End**: Seb's concert.
 
-Summer is the shortest season in the movie. It starts out with red, turns to green, then closes out with a fight between red and blue during *Start a Fire*. According to [Film School Rejects](https://filmschoolrejects.com/color-in-la-la-land-26939a11accd/), red, blue and green are said to represent reality, control and a change, respectively. The green during summer corresponds to *City of Stars*, which precludes the eventual fall-out of Mia and Seb.
+Summer is the shortest season in the movie. It starts out with red, turns to green, then closes out with a fight between red and blue during *Start a Fire*. According to [Film School Rejects](https://filmschoolrejects.com/color-in-la-la-land-26939a11accd/), red, blue and green are said to represent reality, control and a change, respectively. The green during summer corresponds to *City of Stars*, which preludes the eventual fall-out of Mia and Seb.
 
 ![](/images/20170519/04.png)
 
@@ -78,7 +78,7 @@ How did I produce the color spectrum?
 
 In this section, I discuss the methodology to go from video file to color spectrum.
 
-Given a 1080p video file of La La Land, what we want to visualize in one image is how the colors of La La Land change over time, a color spectrum over time we can say. 
+Given a video file of La La Land, what we want to visualize in one image is how the colors of La La Land change over time, a color spectrum over time. 
 
 ## Sampling Frames
 A video is simply a sequence of images. In order to obtain color samples, we can simply export frames from the video and do an analysis on those frames. I exported a frame from the movie every two seconds using VLC. In total, 3,020 movie frames were used in the analysis.
