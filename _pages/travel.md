@@ -6,9 +6,9 @@ title: Travel
 
 <div id="archives">
 {% for category in site.categories %}
-  {% if category == "Miscellaneous" %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  {% if category_name == "Miscellaneous" %}
     <div class="archive-group">
-      {% capture category_name %}{{ category | first }}{% endcapture %}
       <div id="#{{ category_name | slugize }}"></div>
       <p></p>
 
