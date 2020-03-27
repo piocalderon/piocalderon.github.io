@@ -325,6 +325,3 @@ The fifth heuristic is examining the tri-gram before a sentiment-laden lexical f
 
 ## VADER Sentiment Analysis Wrap Up
 VADER combines a dictionary of lexical features to valence scores with a set of five heuristics. The model works best when applied to social media text, but it has also proven itself to be a great tool when analyzing the sentiment of movie reviews and opinion articles.
-
-The great thing about VADER is that an open-source implementation in Python is available here. Sentiment analysis becomes a joy using the code.  To see an application of VADER sentiment analysis, check out my post on Black Mirror, wherein I rank the show’s episodes according to how negative they are.
-
