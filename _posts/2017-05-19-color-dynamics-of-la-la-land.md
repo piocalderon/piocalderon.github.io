@@ -2,12 +2,13 @@
 layout: post
 title: The Color Dynamics of La La Land
 categories: [Data]
+excerpt: Is there a synchronized dance between seasons and colors in La La Land? Using some basic video processing and unsupervised learning, we visualize how the dominant colors of the movie frames change throughout the running time.
 ---
 ![](https://madeleinelovesmoviesdotcom.files.wordpress.com/2017/01/la-la-land.jpg)
 
 La La Land is an absolute gem of the movie. Though it didn't win the top prize at the Oscars (Moonlight was also great), it was certainly the most enjoyable cinematic experience for me. The visuals, the music, the acting: all 10s in my book. Watching the movie for the first time, what struck me the most was how vivid the colors on the screen were, and how different scenes in the movie were accompanied with distinct colors as if they were deliberately paired.
 
-With the movie presented as a narrative of five chapters - Winter, Spring, Summer, Fall, and Winter 5 years later - my hypothesis is that distinct colors are matched with the five chapters. Is there a synchronized dance between seasons and colors? Using some basic video processing and unsupervised learning, my aim is to visualize how the dominant colors on the reel change throughout the movie's running time. 
+With the movie presented as a narrative of five chapters - Winter, Spring, Summer, Fall, and Winter 5 years later - my hypothesis is that distinct colors are matched with the five chapters. Is there a synchronized dance between seasons and colors? Using some basic video processing and unsupervised learning, my aim is to visualize how the dominant colors of the movie frames change throughout the running time. 
 
 I was able to decompose the movie into a flat range of colors, where dominant colors go from top to bottom and time runs from left to right. Here's the finished product:
 
