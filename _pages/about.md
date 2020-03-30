@@ -12,7 +12,7 @@ While doing my Masters in applied math, I worked as a research assistant for a s
 
 After graduating, I joined a local fintech 📈 startup **Ayannah** as their first data scientist hire. There, I set up dashboards to track transactions and built models to estimate credit risk, profile customer behavior, and recommend products to customers. I also scraped the web for a lot of Filipino text data and built localized NLP models for various purposes.
 
-Soonafter I became very interested in text analytics and decided to focus on that area. I joined **Neuro Flash**, a neuromarketing AI startup, where we help brands optimize their marketing campaigns to be on-point in terms of success and on-brand in terms of messaging.
+Soon after I became very interested in text analytics and decided to focus on that area. I joined **Neuro Flash**, a neuromarketing AI startup, where we help brands optimize their marketing campaigns to be on-point in terms of success and on-brand in terms of messaging.
 
 I am interested in projects involving **Text Analytics**, **Geospatial Analysis**, **Computational Social Science**, and **Data Visualization**. I am always looking for ways to improve my skills in these areas, and I suppose writing about these topics reinforces the learning process.
 
