@@ -2,7 +2,7 @@
 layout: post
 title: Surviving Survivor with Survival Analysis
 categories: [Data]
-excerpt: Is there a synchronized dance between seasons and colors in La La Land? Using some basic video processing and unsupervised learning, we visualize how the dominant colors of the movie frames change throughout the running time.
+excerpt: Which group has the higher chance of surviving Survivor? Males, females, young, old? Is the era of Survivor (Old School vs. New School) a factor? Let's take Survivor as a case study of survival analysis and Kaplan-Meier curves.
 ---
 I’ve been playing around with **survival analysis** at work, and it occurred to me that Survivor is the perfect case study  for the topic since it deals with people metaphorically *dying* when they get voted out.
 
