@@ -32,12 +32,16 @@ By normalizing the scores based on how many teams are left in the respective leg
 
 Let us define the **performance index** of a TAR team on leg j as
 
+![](<https://latex.codecogs.com/gif.latex?performance(j)&space;=&space;1&space;-&space;\frac{(placement\&space;on\&space;leg&space;j)&space;-&space;1}{(\&hash;\&space;teams\&space;on\&space;leg\&space;j)&space;-&space;1}>)
+
 Intuitively, we can think of the performance index of a team in a leg as the fraction of the other teams that placed lower in the particular leg. A team with a performance index of 0 is the last team: 0% of other teams placed lower. A team with a performance index of 1 is the first placer: 100% of other teams placed lower. 
 
 In general, a team with a performance index of x on leg j means 100x% of other teams placed lower on leg j.
 Now that the placements of the different legs are comparable, we can now talk about averaging the placements.
 
 We can now define the **domination index** as a rolling average of the performance index across the different legs. For a specific team, we compute the domination index on leg j as
+
+![](<https://latex.codecogs.com/gif.latex?dominance(j)&space;=&space;\frac{1}{j}&space;\sum_{k=1}^j\&space;performance(k)>)
 
 Intuitively, a team’s domination index on leg j is a measure of the team’s performance from leg 1 up to leg j. If a team had a domination index of 0.4 on leg 6, then it means that, on average, 40% of the team’s competitors placed lower than the team on legs 1 to 6.
 
