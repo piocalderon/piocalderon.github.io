@@ -2,7 +2,7 @@
 layout: post
 title: A Network Approach to Survivor Alliances
 categories: [Data]
-excerpt: Relationships are the most important element to survive in Survivor. Relationships lead to alliances and alliances lead to voting patterns. The question is, can we go backwards? By analyzing voting history data, can we draw a map of castaway relationships over time?** 
+excerpt: In this post we represent each season of Survivor as a weighted graph of alliances and use network-theoretic metrics to compare and contrast Borneo to Game Changers.
 
 ---
 

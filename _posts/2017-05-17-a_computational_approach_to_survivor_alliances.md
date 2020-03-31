@@ -2,7 +2,7 @@
 layout: post
 title: A Computational Approach to Survivor Alliances
 categories: [Data]
-excerpt: Relationships are the most important element to survive in Survivor. Relationships lead to alliances and alliances lead to voting patterns. The question is, can we go backwards? By analyzing voting history data, can we draw a map of castaway relationships over time?** 
+excerpt: Relationships are the most important element to survive in Survivor. Relationships lead to alliances and alliances lead to voting patterns. The question is, can we go backwards? By analyzing voting history data, can we draw a map of castaway relationships over time?
 
 ---
 
