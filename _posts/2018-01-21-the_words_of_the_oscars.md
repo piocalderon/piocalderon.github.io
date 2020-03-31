@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Words of The Oscars
+title: The Words of The Oscars
 categories: [Data]
 excerpt: We look at which words (and consequently topics) appear in plot summaries of Oscar-worthy films from 1928 to 2016.
 

@@ -12,8 +12,6 @@ The TV show Survivor has been the subject of countless thought pieces. One analy
 
 Relationships are the most important element to survive in Survivor. Relationships lead to alliances and alliances lead to voting patterns. The question is, can we go backwards? 
 
-**By analyzing voting history data, can we draw a map of castaway relationships over time?**
-
 # Scraping the Survivor Wiki
 Analysis will not be possible without data. In this section, I describe the web scraping process using the `Python` module `Beautiful Soup`. Specifically, the data I’ll be fetching is the **voting history table** from each season page in the Survivor Wiki.
 
