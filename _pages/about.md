@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm **Pio Calderon**, a data scientist based in Manila. ✌️
+Hi, I'm **Pio Calderon**, a data scientist based in Manila. ✌️ 
 
 My background is mostly in **applied mathematics** 🧮 and **computational modeling** 💻. In general, I'm very interested in tackling problems from a computational and data-driven perspective, especially problems in areas that typically don't admit such approaches at first glance.
 
@@ -22,3 +22,4 @@ Aside from data science, I am also interested in **exploring new places**. My la
 
 ![](/images/varanasi.jpg)
 *Ghats of Varanasi, captured during my trip to India. Feb 2020.*
+
