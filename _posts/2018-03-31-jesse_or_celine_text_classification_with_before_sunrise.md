@@ -2,7 +2,7 @@
 layout: post
 title: Jesse or Celine? Text Classification with Before Sunrise
 categories: [Data]
-excerpt: A primer on the different ways we can recommend items to customers. Content-based methods, collaborative filtering, hybrid methods - all included. I also discuss Light FM, a particularly cool hybrid method, that shines in cold start problems.
+excerpt: Attempting to model *who said what*, Jesse or Celine, using simple machine learning and Before Sunrise dialog.
 
 ---
 Ah, Before Sunrise. 
