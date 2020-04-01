@@ -14,7 +14,7 @@ After graduating, I joined a local fintech 📈 startup **Ayannah** as their fir
 
 Soon after I became very interested in text analytics and decided to focus on that area. I joined **Neuro Flash**, a neuromarketing-AI 🧠 startup, where we help brands optimize their marketing campaigns to be on-point in terms of success and on-brand in terms of messaging.
 
-I am interested in projects involving **Text Analytics**, **Geospatial Analysis**, **Computational Social Science**, and **Data Visualization**. I am always looking for ways to improve my skills in these areas, and I suppose writing about these topics reinforces the learning process.
+I am interested in projects that involve **Text Analytics**, **Geospatial Analysis**, **Computational Social Science**, and **Data Visualization**. I am always looking for ways to improve my skills in these areas, and I suppose writing about these topics reinforces the learning process.
 
 In terms of tools, I work mostly in **Python** for the full-stack data science process: data wrangling, data viz, model building, and API development. On the side, I'm also learning a bit of **JavaScript** and **D3.js** for interactive visualizations.
 
