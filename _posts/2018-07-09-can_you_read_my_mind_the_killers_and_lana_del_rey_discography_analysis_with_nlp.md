@@ -2,7 +2,7 @@
 layout: post
 title: Can You Read My Mind? The Killers / Lana Del Rey Discography Analysis
 categories: [Data]
-excerpt: 
+excerpt: We utilize basic natural language processing to probe the lyrics of The Killers and Lana Del Rey.
 
 ---
 # The Killers
