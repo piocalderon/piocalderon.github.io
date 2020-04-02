@@ -1,4 +1,4 @@
-const width = Math.min(800, window.innerWidth);
+const width = 800;
 const height = 500;
 const countryList = ["Japan", "Taiwan", "Philippines", "Malaysia", "Thailand", "India", "Singapore", "Indonesia"];
 
@@ -162,6 +162,7 @@ function showData(dataSources) {
         .attr("id", "map")
         .attr("width", width)
         .attr("height", height)
+        // .attr("preserveAspectRatio", "xMidYMid slice")
         // .style("border", "solid 3px black")
 
     let countries = chart.append("g")
