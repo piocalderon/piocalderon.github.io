@@ -164,7 +164,7 @@ function showData(dataSources) {
         .attr("height", height)
         // .attr("preserveAspectRatio", "xMidYMid slice")
         // .style("border", "solid 3px black")
-
+    
     let countries = chart.append("g")
     let cities = chart.append("g")
 
@@ -182,12 +182,12 @@ function showData(dataSources) {
         .append("path")
         .classed("country", true)
         .attr("stroke", "gray")
-        .attr("fill", d => countryList.includes(d.properties.name) ? "pink" : "lightgray")
+        .attr("fill", d => countryList.includes(d.properties.name) ? "#EA738DFF" : "lightgray")
         .attr("d", geoPath)
         .on("mouseover", function(d) {
             // d3.selectAll("path.country").attr("fill", "white")
             
-            d3.select(this).attr("fill", d => countryList.includes(d.properties.name) ? "red" : "lightgray")
+            d3.select(this).attr("fill", d => countryList.includes(d.properties.name) ? "#00539CFF" : "lightgray")
             tooltip
                 .html(d.properties.content)
                 .style("visibility", "visible")
@@ -198,14 +198,14 @@ function showData(dataSources) {
                 .style("left", (d3.event.pageX+10)+"px")
         })
         .on("mouseout", function(d) {
-            d3.selectAll("path.country").attr("fill", d => countryList.includes(d.properties.name) ? "pink" : "lightgray")
+            d3.selectAll("path.country").attr("fill", d => countryList.includes(d.properties.name) ? "#EA738DFF" : "lightgray")
             // d3.select(this)
             tooltip
                 .style("visibility", "hidden")
         })
         .on("click", function(d) {
             if (countryList.includes(d.properties.name) )
-                window.open(root + "/categories/#" + d.properties.name)
+                window.location.href = root + "/categories/#" + d.properties.name
         })
 
 
@@ -214,10 +214,12 @@ function showData(dataSources) {
         .enter()
         .filter(d=>d.properties.city!="Johor Bahru")
         .append("path")
-        .attr("fill", "blue")
+        .attr("fill", "#FDD20EFF")
+        .attr("stroke", "orange")
+        .attr("stroke-width", "1px")
         .attr("d", geoPath)
         .on("mouseover", function(d) {
-            d3.select(this).attr("fill", "red").attr("cursor", "pointer")
+            d3.select(this).attr("fill", "#00539CFF").attr("cursor", "pointer")
             console.log(d.properties.city)
             tooltip
                 .html(d.properties.content)
@@ -229,12 +231,12 @@ function showData(dataSources) {
                 .style("left", (d3.event.pageX+10)+"px")
         })
         .on("mouseout", function(d) {
-            d3.select(this).attr("fill", "blue")
+            d3.select(this).attr("fill", "#FDD20EFF")
             tooltip
                 .style("visibility", "hidden")
         })
         .on("click", function(d) {
-            window.open(root + "/" + d.properties.city.toLowerCase().replace(" ", "-"))
+            window.location.href = root + "/" + d.properties.city.toLowerCase().replace(" ", "-")
         })
 
 }
