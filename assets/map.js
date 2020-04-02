@@ -1,4 +1,4 @@
-const width = 800;
+const width = Math.min(800, window.innerWidth);
 const height = 500;
 const countryList = ["Japan", "Taiwan", "Philippines", "Malaysia", "Thailand", "India", "Singapore", "Indonesia"];
 
