@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Exploring the Negativity of Black Mirror with VADER
-categories: [Data]
-excerpt: Can I use sentiment analysis to obtain an objective ranking of the inherently subjective sentiment of Black Mirror episodes? Here I explain and explore the lexicon-based VADER approach for text sentiment analysis and apply it to analyze the acclaimed TV series. 
+categories: [Data, NLP, Black Mirror]
+excerpt: <img src="/images/20170403/07.jpeg">Can I use sentiment analysis to obtain an objective ranking of the inherently subjective sentiment of Black Mirror episodes? Here I explain and explore the lexicon-based VADER approach for text sentiment analysis and apply it to analyze the acclaimed TV series. 
 
 ---
 ![](https://miro.medium.com/max/1400/1*-h1F-dn6_B2yWKsT1vPsLg.jpeg)

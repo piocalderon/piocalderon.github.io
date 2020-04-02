@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Color Dynamics of La La Land
-categories: [Data]
-excerpt: Is there a synchronized dance between seasons and colors in La La Land? Using some basic video processing and unsupervised learning, we visualize how the dominant colors of the movie frames change throughout the running time.
+categories: [Data, Image Processing, La La Land]
+excerpt: <img src="/images/20170519/00.png">Is there a synchronized dance between seasons and colors in La La Land? Using some basic video processing and unsupervised learning, we visualize how the dominant colors of the movie frames change throughout the running time.
 ---
 ![](https://madeleinelovesmoviesdotcom.files.wordpress.com/2017/01/la-la-land.jpg)
 

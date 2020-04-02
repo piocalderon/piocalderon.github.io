@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Do Underdogs Often Win? Domination Analytics of The Amazing Race"
-categories: [Data]
-excerpt: Do underdogs often win The Amazing Race? Who are the most dominant teams? Let's number-crunch The Amazing Race to explore domination in the context of the show.
+categories: [Data, Metric Definition, The Amazing Race]
+excerpt: <img src="/images/20170703/04.png">Do underdogs often win The Amazing Race? Who are the most dominant teams? Let's number-crunch The Amazing Race to explore domination in the context of the show.
 ---
 I love to root for the **underdog**. 
 

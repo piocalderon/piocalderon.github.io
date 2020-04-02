@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Dynamics of Philippine Senate Bills
-categories: [Data]
-excerpt: A segue into computational social science. I scrape 14,741 Philippines Senate bills written by the 13th Congress to the 17th Congress and build a topic model to understand how the topics of Senate bills have changed over time.
-
+categories: [Data, NLP, Philippine Government]
+excerpt: <img src="/images/20180610/15.png">A segue into computational social science. I scrape 14,741 Philippines Senate bills written by the 13th Congress to the 17th Congress and build a topic model to understand how the topics of Senate bills have changed over time.
 ---
 
 Let’s segue a bit from the main focus of the blog (which if you don’t know is data science applied to entertainment) to focus on something closer to home — data science on the Philippine government.

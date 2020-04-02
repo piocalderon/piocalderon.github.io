@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Surviving Survivor with Survival Analysis
-categories: [Data]
-excerpt: Which group has the higher chance of surviving Survivor? Males, females, young, old? Is the era of Survivor (Old School vs. New School) a factor? Let's take Survivor as a case study of survival analysis and Kaplan-Meier curves.
+categories: [Data, Survival Analysis, Survivor]
+excerpt: <img src="/images/20180117/08.png">Which group has the higher chance of surviving Survivor? Males, females, young, old? Is the era of Survivor (Old School vs. New School) a factor? Let's take Survivor as a case study of survival analysis and Kaplan-Meier curves.
 ---
 I’ve been playing around with **survival analysis** at work, and it occurred to me that Survivor is the perfect case study  for the topic since it deals with people metaphorically *dying* when they get voted out.
 

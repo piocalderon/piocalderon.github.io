@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Network Approach to Survivor Alliances
-categories: [Data]
-excerpt: In this post we represent each season of Survivor as a weighted graph of alliances and use network-theoretic metrics to compare and contrast Borneo to Game Changers.
+categories: [Data, Networks, Survivor]
+excerpt: <img src="/images/20170523/14.png">In this post we represent each season of Survivor as a weighted graph of alliances and use network-theoretic metrics to compare and contrast Borneo to Game Changers.
 
 ---
 

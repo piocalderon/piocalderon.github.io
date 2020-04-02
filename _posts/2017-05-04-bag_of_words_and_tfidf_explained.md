@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bag of Words and Tf-idf Explained
-categories: [Data]
-excerpt: A primer on two basic ways we can convert text to numerical features, which we can use as features in a machine learning system.
+categories: [Data, NLP]
+excerpt: <img src="/images/20170504/02.jpeg">A primer on two basic ways we can convert text to numerical features, which we can use as features in a machine learning system.
 
 ---
 Text analytics is one of the most interesting applications of computing. It involves taking raw text, converting it into a set of numerical features, and applying a natural language processing (NLP) or machine learning (ML) algorithm on it to derive some insight. Let’s focus on the second step. How do we actually transform raw text into numerical features?

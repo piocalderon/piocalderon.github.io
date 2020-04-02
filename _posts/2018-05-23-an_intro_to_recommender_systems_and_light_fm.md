@@ -1,8 +1,8 @@
 ---
 layout: post
 title: An Intro to Recommender Systems and Light FM
-categories: [Data]
-excerpt: A primer on the different ways we can recommend items to customers. Content-based methods, collaborative filtering, hybrid methods - all included. I also discuss Light FM, a particularly cool hybrid method, that shines in cold start problems.
+categories: [Data, Recommender Systems]
+excerpt: <img src="/images/20180523/01.png">A primer on the different ways we can recommend items to customers. Content-based methods, collaborative filtering, hybrid methods - all included. I also discuss Light FM, a particularly cool hybrid method, that shines in cold start problems.
 
 ---
 The proliferation of e-commerce websites such as Amazon and content-based subscription services like Netflix and Spotify has made it essential that the right product or item is delivered to the right customer. This is one area where data-driven approaches shine. In a nutshell, we want to answer the following question: 

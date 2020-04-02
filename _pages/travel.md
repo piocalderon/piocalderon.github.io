@@ -4,7 +4,45 @@ permalink: /travel/
 title: Travel
 ---
 
-<div id="archives">
+<style>
+        .tooltip {
+            position: absolute;
+            z-index: 1000;
+            visibility: visible; 
+            background-color: transparent;
+            /* font-weight: bold; */
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+        }
+
+        h2 {
+            margin-BOTTOM: 0; 
+            text-align: left;
+        }
+
+        p  {
+            margin-TOP: 0;
+        }
+
+        .selected {
+
+            stroke: black;
+            stroke-width: 3px;
+
+        }
+
+        .unselected {
+            stroke: transparent;
+            stroke-width: 3px;
+        }
+</style>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<div id="example"></div>
+<script src="/assets/map.js"></script>
+
+<!-- <div id="archives">
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   {% if category_name == "Travel" %}
@@ -18,5 +56,5 @@ title: Travel
       {% endfor %}
     </div>
   {% endif %}
-{% endfor %}
-</div>
+{% endfor %} -->
+<!-- </div> -->

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Words of The Oscars
-categories: [Data]
-excerpt: We look at which words (and consequently topics) appear in plot summaries of Oscar-worthy films from 1928 to 2016.
+categories: [Data, NLP, The Oscars]
+excerpt: <img src="/images/20180121/10.png">We look at which words (and consequently topics) appear in plot summaries of Oscar-worthy films from 1928 to 2016.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jesse or Celine? Text Classification with Before Sunrise
-categories: [Data]
-excerpt: Attempting to model *who said what*, Jesse or Celine, using simple machine learning and Before Sunrise dialog.
+categories: [Data, NLP, Before Sunrise]
+excerpt: <img src="/images/20180331/03.png">Attempting to model who said what, Jesse or Celine, using simple machine learning and Before Sunrise dialog.
 
 ---
 Ah, Before Sunrise. 
