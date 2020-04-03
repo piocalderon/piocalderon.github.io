@@ -20,6 +20,8 @@ In terms of tools, I work mostly in **Python** for the full-stack data science p
 
 Aside from data science, I am also interested in **exploring new places**. My last adventure was a two-month digital nomad trip through Chiang Mai, India and Bali. I'm on a mission to travel the 🌍. I'll write about my adventures when I have the time.
 
+This blog is best viewed on a PC because of D3!
+
 [![](/images/varanasi.jpg)](https://piocalderon.github.io/varanasi)
 *Ghats of Varanasi, captured during my trip to India. Feb 2020.*
 
