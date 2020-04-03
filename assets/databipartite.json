@@ -1,0 +1,33 @@
+{
+    "nodes": [
+        {"id": "Black Mirror", "type": "Media", "image": "/assets/datapage/blackmirror.png"},
+        {"id": "Survivor", "type": "Media", "image": "/assets/datapage/survivor.png"},
+        {"id": "La La Land", "type": "Media", "image": "/assets/datapage/lalaland.png"},
+        {"id": "The Amazing Race", "type": "Media", "image": "/assets/datapage/theamazingrace.png"},
+        {"id": "The Oscars", "type": "Media", "image": "/assets/datapage/theoscars.png"},
+        {"id": "Before Sunrise", "type": "Media", "image": "/assets/datapage/beforesunrise.png"},
+        {"id": "Philippine Government", "type": "Media", "image": "/assets/datapage/philippinegovernment.png"},
+        {"id": "The Killers", "type": "Media", "image": "/assets/datapage/thekillers.png"},
+        {"id": "Lana Del Rey", "type": "Media", "image": "/assets/datapage/lanadelrey.png"},
+        {"id": "NLP", "type": "Data", "image": "/assets/datapage/nlp.png"},
+        {"id": "Metric Definition", "type": "Data", "image": "/assets/datapage/metricdefinition.png"},
+        {"id": "Image Processing", "type": "Data", "image": "/assets/datapage/imageprocessing.png"},
+        {"id": "Networks", "type": "Data", "image": "/assets/datapage/networks.png"},
+        {"id": "Survival Analysis", "type": "Data", "image": "/assets/datapage/survivalanalysis.png"},
+        {"id": "Recommender Systems", "type": "Data", "image": "/assets/datapage/recommendersystems.png"}
+    ],
+    "links": [
+        {"source": "Black Mirror", "target": "NLP"},
+        {"source": "Survivor", "target": "Metric Definition"},
+        {"source": "Survivor", "target": "Networks"},
+        {"source": "Survivor", "target": "Metric Definition"},
+        {"source": "Survivor", "target": "Survival Analysis"},
+        {"source": "La La Land", "target": "Image Processing"},
+        {"source": "The Amazing Race", "target": "Metric Definition"},
+        {"source": "The Oscars", "target": "NLP"},
+        {"source": "Before Sunrise", "target": "NLP"},
+        {"source": "Philippine Government", "target": "NLP"},
+        {"source": "The Killers", "target": "NLP"},
+        {"source": "Lana Del Rey", "target": "NLP"}
+    ]
+}
