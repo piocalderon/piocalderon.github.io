@@ -44,20 +44,17 @@ title: Data
     .link.background {
 
     stroke: lightgray;
-    stroke-width: 10px;
+    stroke-width: 3px;
                 
     }
 
     .link.unselected {
 
     stroke: gray;
-    stroke-width: 10px;
+    stroke-width: 3px;
                 
     }
-    .unselected {
-        stroke: transparent;
-        stroke-width: 3px;
-    }
+
 </style>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 
