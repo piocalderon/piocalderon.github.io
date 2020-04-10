@@ -189,7 +189,7 @@ function showData(dataSources) {
         .enter()
         .append("path")
         .classed("country", true)
-        .attr("stroke", "gray")
+        .attr("stroke", "lightgray")
         .attr("fill", d => countryList.includes(d.properties.name) ? "#EA738DFF" : "lightgray")
         .attr("d", geoPath)
         .on("mouseover", function(d) {
