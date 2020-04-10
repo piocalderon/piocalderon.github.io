@@ -5,7 +5,16 @@ title: Data
 ---
 
 <style>
-    .container { display: flex; justify-content: center; } 
+    .graphcontainer { 
+        /* position: relative;  */
+        display: flex; 
+        justify-content: center;
+        padding-bottom: 0%; 
+        /* border: 4px solid red; */
+        text-align: center; 
+        width: 100%; 
+        /* background-color: red;" */
+      } 
     .tooltip {
         position: absolute;
         z-index: 1000;
@@ -15,7 +24,7 @@ title: Data
         font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
 "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
 "Droid Sans", "Helvetica Neue", sans-serif;
-        font-size: 200%;
+        font-size: 150%;
     }
 
     .selected {
@@ -52,7 +61,7 @@ title: Data
 </style>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 
-<div id="example" class="container" style="text-align: center;"></div>
+<div id="example" class="graphcontainer"></div>
 <script src="/assets/bipartite.js"></script>
 
 <!-- <div id="archives">

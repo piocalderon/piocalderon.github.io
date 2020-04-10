@@ -1,6 +1,15 @@
-const chartWidth = 800;
-const chartHeight = 500;
-const nodeSize = 60;
+let content = document.getElementById('main');
+let graph = document.getElementById('example');
+content.insertBefore(graph, content.childNodes[0]);
+
+console.log(parseInt(main.clientWidth))
+console.log(parseInt(0.75*main.clientWidth))
+graph.style.height = parseInt(0.75*main.clientWidth) + "px"
+console.log(main.clientHeight)
+
+const chartWidth = main.clientWidth;
+const chartHeight = main.clientHeight;
+const nodeSize = main.clientWidth/13;
 
 let root = location.protocol + '//' + location.host;
 
@@ -14,11 +23,11 @@ let tooltip = d3.select("div#example")
 let simulation = d3.forceSimulation()
         .force("link", d3.forceLink().id(
                 d => d.id
-            ).distance(400))
+            ).distance(chartWidth/2))
         // .force("charge", d3.forceManyBody().strength(-50))
-        .force("center", d3.forceCenter(chartWidth/3, chartHeight/2))
-        .force("collide",d3.forceCollide(40))
-        .force("forceX", d3.forceX().x(d => (d.type == "Media" ? 0.15*chartWidth : 0.85*chartWidth)))
+        .force("center", d3.forceCenter(parseInt(chartWidth/2.5), parseInt(chartHeight/2.2)))
+        .force("collide",d3.forceCollide(chartWidth/18))
+        .force("forceX", d3.forceX().x(d => (d.type == "Media" ? 0.2*chartWidth : 0.9*chartWidth)))
         .force("forceY", d3.forceY().y(chartHeight))
 
 function dragger(simulation) {
@@ -56,10 +65,13 @@ function createElements(data) {
 
     let chart = d3.select("div#example")
         .append("svg")
-        .attr("width", chartWidth)
-        .attr("height", chartHeight)
+        .attr("width", "100%")
+        .attr("height", "100%")
+        // .attr("width", "100%")
+        // .attr("height", "100%")
+        // .attr("viewbox", "0 0 800 500")
         .style("display", "block")
-        .style("margin", "auto")
+        // .style("margin", "auto")
 
     edges = chart
         .selectAll("line.link")
