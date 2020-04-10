@@ -4,4 +4,4 @@ title:  "Chiang Rai"
 categories: [Travel, Thailand]
 hidden: true
 ---
-Hehe
+Under construction.

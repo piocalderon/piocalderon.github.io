@@ -2,10 +2,7 @@ let content = document.getElementById('main');
 let graph = document.getElementById('example');
 content.insertBefore(graph, content.childNodes[0]);
 
-console.log(parseInt(main.clientWidth))
-console.log(parseInt(0.75*main.clientWidth))
 graph.style.height = parseInt(0.75*main.clientWidth) + "px"
-console.log(main.clientHeight)
 
 const chartWidth = main.clientWidth;
 const chartHeight = main.clientHeight;

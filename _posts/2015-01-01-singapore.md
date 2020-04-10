@@ -4,4 +4,4 @@ title:  "Singapore"
 categories: [Travel, Singapore]
 hidden: true
 ---
-Hehe
+Under construction.
