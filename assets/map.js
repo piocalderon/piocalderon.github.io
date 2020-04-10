@@ -1,5 +1,12 @@
-const width = 800;
-const height = 500;
+let content = document.getElementById('main');
+let graph = document.getElementById('example');
+content.insertBefore(graph, content.childNodes[0]);
+
+graph.style.height = parseInt(0.75*main.clientWidth) + "px"
+
+
+const width = main.clientWidth;
+const height = main.clientHeight;
 const countryList = ["Japan", "Taiwan", "Philippines", "Malaysia", "Thailand", "India", "Singapore", "Indonesia"];
 
 let root = location.protocol + '//' + location.host;
@@ -169,7 +176,8 @@ function showData(dataSources) {
     let cities = chart.append("g")
 
     let projection = d3.geoMercator()
-        .scale(470)
+        // .scale(470)
+        .scale(width/1.5)
         .center([105, 15])
         .translate([width/2, height/2])
 

@@ -5,41 +5,52 @@ title: Travel
 ---
 
 <style>
-        .tooltip {
-            position: absolute;
-            z-index: 1000;
-            visibility: visible; 
-            background-color: transparent;
-            /* font-weight: bold; */
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
-    "Droid Sans", "Helvetica Neue", sans-serif;
-        }
+    .graphcontainer { 
+        /* position: relative;  */
+        display: flex; 
+        justify-content: center;
+        padding-bottom: 0%; 
+        /* border: 4px solid red; */
+        text-align: center; 
+        width: 100%; 
+        /* background-color: red;" */
+      } 
 
-        h2 {
-            margin-BOTTOM: 0; 
-            text-align: left;
-        }
+    .tooltip {
+        position: absolute;
+        z-index: 1000;
+        visibility: visible; 
+        background-color: transparent;
+        /* font-weight: bold; */
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+"Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+"Droid Sans", "Helvetica Neue", sans-serif;
+    }
 
-        p  {
-            margin-TOP: 0;
-        }
+    h2 {
+        margin-BOTTOM: 0; 
+        text-align: left;
+    }
 
-        .selected {
+    p  {
+        margin-TOP: 0;
+    }
 
-            stroke: black;
-            stroke-width: 3px;
+    .selected {
 
-        }
+        stroke: black;
+        stroke-width: 3px;
 
-        .unselected {
-            stroke: transparent;
-            stroke-width: 3px;
-        }
+    }
+
+    .unselected {
+        stroke: transparent;
+        stroke-width: 3px;
+    }
 </style>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 
-<div id="example"></div>
+<div id="example" class="graphcontainer"></div>
 <script src="/assets/map.js"></script>
 
 <!-- <div id="archives">
