@@ -14,7 +14,8 @@
         {"id": "Image Processing", "type": "Data", "image": "/assets/datapage/imageprocessing.png"},
         {"id": "Networks", "type": "Data", "image": "/assets/datapage/networks.png"},
         {"id": "Survival Analysis", "type": "Data", "image": "/assets/datapage/survivalanalysis.png"},
-        {"id": "Recommender Systems", "type": "Data", "image": "/assets/datapage/recommendersystems.png"}
+        {"id": "Recommender Systems", "type": "Data", "image": "/assets/datapage/recommendersystems.png"},
+        {"id": "Bayesian Analysis", "type": "Data", "image": "/assets/datapage/bayesiananalysis.png"}
     ],
     "links": [
         {"source": "Black Mirror", "target": "NLP"},
@@ -22,6 +23,7 @@
         {"source": "Survivor", "target": "Networks"},
         {"source": "Survivor", "target": "Metric Definition"},
         {"source": "Survivor", "target": "Survival Analysis"},
+        {"source": "Survivor", "target": "Bayesian Analysis"},
         {"source": "La La Land", "target": "Image Processing"},
         {"source": "The Amazing Race", "target": "Metric Definition"},
         {"source": "The Oscars", "target": "NLP"},
