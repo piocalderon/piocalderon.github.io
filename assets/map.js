@@ -30,7 +30,7 @@ Promise.all(
         d3.csv("/assets/travel_posts/philippines_sagada.csv"),
         d3.csv("/assets/travel_posts/malaysia_kuala lumpur.csv"),
         d3.csv("/assets/travel_posts/malaysia_johor bahru.csv"),
-        d3.csv("/assets/travel_posts/malaysia_penang.csv"),
+        d3.csv("/assets/travel_posts/malaysia_malacca.csv"),
         d3.csv("/assets/travel_posts/thailand_bangkok.csv"),
         d3.csv("/assets/travel_posts/thailand_chiang mai.csv"),
         d3.csv("/assets/travel_posts/thailand_ayutthaya.csv"),
@@ -76,7 +76,7 @@ function getIndexOfCity(city) {
             return 10
         case "Johor Bahru":
             return 11
-        case "Penang":
+        case "Malacca":
             return 12
         case "Bangkok":
             return 13
