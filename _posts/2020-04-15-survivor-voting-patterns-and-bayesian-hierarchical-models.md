@@ -2,7 +2,7 @@
 layout: post
 title: Survivor, Voting Patterns, and Bayesian Hierarchical Models
 categories: [Data, Bayesian Analysis, Survivor]
-excerpt: <img src="/images/20200415/Tribal.png"> We scan through Survivor voting patterns from Borneo to Island of the Islands and estimate hit rates using Bayesian hierarchical models.
+excerpt: <img src="/images/20200415/Tribal.png"> We scan through Survivor voting patterns from Borneo to Island of the Idols and estimate hit rates using Bayesian hierarchical models.
 ---
 
 
