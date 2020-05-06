@@ -20,7 +20,7 @@ I am interested in projects that involve **Text Analytics**, **Geospatial Analys
 
 In terms of tools, I work mostly in **Python** for full-stack data science: data wrangling, data viz, model building, and API development. On the side, I'm also learning a bit of **JavaScript** and **D3.js** for interactive visualizations. Check out the [Data](https://piocalderon.github.io/data) and [Travel](https://piocalderon.github.io/travel/) tabs to see some (... best viewed on desktop).
 
-Aside from data science, I am also interested in **exploring new places** and **playing video games**. 
+Aside from data science, I love to **explore new places**, both real and virtual. But due to the coronavirus situation, recently more of the latter.
 
 My last adventure was a two-month digital nomad trip through Chiang Mai, India and Bali. I'm on a mission to travel the 🌍. I'll write about my adventures when I have the time.
 
