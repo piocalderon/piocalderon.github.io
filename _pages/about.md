@@ -6,23 +6,19 @@ permalink: /about/
 
 Hi, I'm **Pio**, a data scientist based in Manila. ✌️ 
 
-My training is mostly in **applied mathematics** 🧮 and **computational modeling** 💻. Formally, I have a BSc in Physics and an MSc in Applied Math.
+Though I'm an applied mathematician by training, I'm mostly interested in working in areas that aren't conventionally *numerical* at first glance. I am fascinated by **Computational Social Science**, an area which tries to marry computational techniques and the study of human-related phenomena.
 
-In general, I'm very interested in tackling problems from a computational and data-driven perspective, especially problems in areas that typically don't admit such approaches at first glance.
+My first job was at university when I was still taking up my Masters in Applied Math. I worked as a research assistant in a study where we [modeled the response of the human body to exercise 🏃‍♂.](https://www.sciencedirect.com/science/article/pii/S002555641630342X?via%3Dihub).
 
-While doing my Masters in applied math, I worked as a research assistant for a study wherein we [modeled the response of the human body to exercise 🏃‍♂ using optimal control theory](https://www.sciencedirect.com/science/article/pii/S002555641630342X?via%3Dihub). Here I combined computational models and patient time series data in order to estimate patient body parameters.
+After graduating, I joined **Ayannah**, a local fintech 📈 startup. As their first data scientist hire, I had the important job of setting the company's analytics direction. I conceptualized various projects with the end goal of understanding the existing customer base of the company.
 
-After graduating, I joined a local fintech 📈 startup **Ayannah** as their first data scientist hire. There, I set up dashboards to track transactions and built models to estimate credit risk, profile customer behavior, and recommend products to customers. I also scraped the web for a lot of Filipino text data and built localized NLP models for various purposes.
+Soon after I became interested in text analytics and decided to focus on that area. I joined **Neuro Flash**, a German neuromarketing-AI 🧠 startup, where we help brands optimize their marketing campaigns to be on-point and on-brand using an interesting mix of NLP, Image Analytics, and Machine Learning.
 
-Soon after I became very interested in text analytics and decided to focus on that area. I joined **Neuro Flash**, a German neuromarketing-AI 🧠 startup, where we utilize a mix of NLP, Image Processing and ML to help brands optimize their marketing campaigns to be on-point in terms of success and on-brand in terms of messaging.
+In terms of tools, I work mostly in **Python** for full-stack data science: data wrangling, data viz, model building, and API development. On the side, I also know a bit of **R** for stats and **D3.js** for interactive visualizations. Check out the [Data](https://piocalderon.github.io/data) and [Travel](https://piocalderon.github.io/travel/) tabs to see some cool viz!
 
-I am interested in projects that involve **Text Analytics**, **Geospatial Analysis**, **Computational Social Science**, and **Data Visualization**. I am always looking for ways to improve my skills in these areas, and I suppose writing about these topics reinforces the learning process.
+Aside from data science, I love to **explore new places**, both real and virtual... but due to the coronavirus situation, recently more of the latter.
 
-In terms of tools, I work mostly in **Python** for full-stack data science: data wrangling, data viz, model building, and API development. On the side, I'm also learning a bit of **JavaScript** and **D3.js** for interactive visualizations. Check out the [Data](https://piocalderon.github.io/data) and [Travel](https://piocalderon.github.io/travel/) tabs to see some (... best viewed on desktop).
-
-Aside from data science, I love to **explore new places**, both real and virtual. But due to the coronavirus situation, recently more of the latter.
-
-My last adventure was a two-month digital nomad trip through Chiang Mai, India and Bali. I'm on a mission to travel the 🌍. I'll write about my adventures when I have the time.
+My last adventure was a two-month digital nomad trip through Chiang Mai, India and Bali during the first quarter of 2020. I'm on a mission to travel the 🌍. I'll write about my adventures when I have the time.
 
 [![](/images/varanasi.jpg)](https://piocalderon.github.io/varanasi)
 *Ghats of Varanasi, captured during my trip to India. Feb 2020.*
