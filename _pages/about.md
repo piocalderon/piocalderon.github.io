@@ -10,7 +10,7 @@ Though I'm an applied mathematician by training, I'm mostly interested in workin
 
 My first job was at university when I was still taking up my Masters in Applied Math. I worked as a research assistant in a study where we [modeled the response of the human body to exercise 🏃‍♂.](https://www.sciencedirect.com/science/article/pii/S002555641630342X?via%3Dihub).
 
-After graduating, I joined **Ayannah**, a local fintech 📈 startup. As their first data scientist hire, I had the important job of setting the company's analytics direction. I conceptualized various projects with the end goal of understanding the existing customer base of the company.
+After graduating, I joined **Ayannah**, a local fintech 📈 startup. As their first data scientist hire, I acted as the de-facto [Head of Data Science](http://www.biznewsasia.com/ayannah-here-to-serve-you/) and had the job of setting the company's analytics direction. I conceptualized various projects with the end goal of understanding the existing customer base of the company.
 
 Soon after I became interested in text analytics and decided to focus on that area. I joined **Neuro Flash**, a German neuromarketing-AI 🧠 startup, where we help brands optimize their marketing campaigns to be on-point and on-brand using an interesting mix of NLP, Image Analytics, and Machine Learning.
 
