@@ -9,6 +9,7 @@
         {"id": "Philippine Government", "type": "Media", "image": "/assets/datapage/philippinegovernment.png"},
         {"id": "The Killers", "type": "Media", "image": "/assets/datapage/thekillers.png"},
         {"id": "Lana Del Rey", "type": "Media", "image": "/assets/datapage/lanadelrey.png"},
+        {"id": "Video Games", "type": "Media", "image": "/assets/datapage/videogames.png"},
         {"id": "NLP", "type": "Data", "image": "/assets/datapage/nlp.png"},
         {"id": "Metric Definition", "type": "Data", "image": "/assets/datapage/metricdefinition.png"},
         {"id": "Image Processing", "type": "Data", "image": "/assets/datapage/imageprocessing.png"},
@@ -30,6 +31,7 @@
         {"source": "Before Sunrise", "target": "NLP"},
         {"source": "Philippine Government", "target": "NLP"},
         {"source": "The Killers", "target": "NLP"},
-        {"source": "Lana Del Rey", "target": "NLP"}
+        {"source": "Lana Del Rey", "target": "NLP"},
+        {"source": "Video Games", "target": "NLP"}
     ]
 }
