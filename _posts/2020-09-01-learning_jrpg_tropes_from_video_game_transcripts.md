@@ -2,7 +2,7 @@
 layout: post
 title: Learning JRPG Tropes from Video Game Transcripts
 categories: [Data, NLP, Video Games]
-excerpt: <img src="/images/20200415/Tribal.png"> We scan through Survivor voting patterns from Borneo to Island of the Idols and estimate hit rates using Bayesian hierarchical models.
+excerpt: <img src="/images/vgtranscript/extra/jrpgcover.png"> We uncover common character archetypes from Final Fantasy and other JRPGs using video game transcripts and Doc2Vec.
 ---
 ![](/images/vgtranscript/extra/dqxis.jpeg)
 
