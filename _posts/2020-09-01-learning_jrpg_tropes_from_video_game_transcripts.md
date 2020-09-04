@@ -113,9 +113,9 @@ There are lots of interesting things in the visual, like the relatively loud Cid
 ## D. Improvements
 
 There are a few things that can be done to improve this project.
-1. Adding more games would be amazing. In particular, I want to include all the mainline Final Fantasy and Dragon Quest games in the analysis.
-2. A more careful preprocessing pipeline for the dialog might do wonders on the results. I took a lazy approach here and didn't really do a lot of cleaning, so there could be some artifacts.
-3. Improving the clustering procedure might reveal interesting tropes.
+1. A more careful preprocessing pipeline for the dialog might do wonders on the results. I took a lazy approach here and didn't really do a lot of cleaning, so there could be some artifacts. In addition, I only considered the top 10 characters per game based on dialog line count. This means that non-chatty main characters like Kimahri (FF X) and Vincent Valentine (FF VII) were filtered out. Maybe a whitelist of characters to include would be better than just basing on the top 10?
+2. Adding more games would be amazing. In particular, I want to include all the mainline Final Fantasy and Dragon Quest games in the analysis.
+4. Improving the clustering procedure might reveal interesting tropes.
 
 <style>
     .graphcontainer { 
