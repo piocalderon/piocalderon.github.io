@@ -2,6 +2,7 @@
 layout: post
 title: Learning JRPG Tropes from Video Game Transcripts
 categories: [Data, NLP, Video Games]
+image: "/images/vgtranscript/extra/jrpgcover.png"
 excerpt: <img src="/images/vgtranscript/extra/jrpgcover.png"> We uncover common character archetypes from Final Fantasy and other JRPGs using video game transcripts and Doc2Vec.
 ---
 ![](/images/vgtranscript/extra/dqxis.jpeg)
