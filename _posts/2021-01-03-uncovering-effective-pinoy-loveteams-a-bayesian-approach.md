@@ -12,7 +12,7 @@ Philippine cinema has a long history with actor tandems, with love teams and act
 
 Now, not all love teams are made equal. [Some](https://www.spot.ph/entertainment/37875/10-eternal-pinoy-love-teams) simply work better than [others](https://www.spot.ph/entertainment/52997/top-10-chemistry-fail-love-teams). I'd imagine casting directors and talent management scouts have a whole science on matching starlets that optimize audience impact.
 
-For every successful pairing like Jennylyn Mercado/ Mark Herras pairing, there's a not-so-successful one like Richard Gutierrez/ KC Concepcion. It's not easy to know which love teams will work because there are a lot of factors that determine success: chemistry, appeal to the masses, and the quality of movies they star in, among others.
+For every successful pairing like Jennylyn Mercado/ Mark Herras, there's a not-so-successful one like Richard Gutierrez/ KC Concepcion. It's not easy to know which love teams will work because there are a lot of factors that determine success: chemistry, appeal to the masses, and the quality of movies they star in, among others.
 
 Predicting success is no doubt difficult, but we can focus on a simpler yet equally important problem. Across all famous love teams, action star tandems, comedy duos, which ones actually worked well? Can we objectively rank these pairings based on user acclaim?
 
