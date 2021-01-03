@@ -6,7 +6,7 @@ excerpt: <img src="/images/20210103/fangirl.png">A deep dive into Bayesian inter
 
 ---
 
-Philippine cinema has a long history with actor tandems, with love teams and action bidas/konttrabidas dominating the big screens and capturing the hearts of the Filipino masses since time immemorial. The bickering between Noranians and Vilmanians have been replaced by the collective kilig-induced squirms at JaDine and KathNiel mall shows. The phenomenon is the same, only the names have changed.
+Philippine cinema has a long history with actor tandems, with love teams and action bidas/konttrabidas dominating the big screens and capturing the hearts of the Filipino masses since time immemorial. Though the flame wars and bickering between Noranians and Vilmanians have been replaced by the collective kilig-induced squirms at JaDine and KathNiel mall shows, the phenomenon is the same. Only the names have changed.
 
 ![](/images/20210103/fangirlplain.png)
 
