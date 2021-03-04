@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm **Pio**, a data scientist based in Manila. ✌️ 
+Hi, I'm **Pio**, a data scientist and a PhD student in the [Behavioral Data Science Lab](https://www.behavioral-ds.ml/) at the University of Technology Sydney. ✌️ 
 
 Though I'm an applied mathematician by training, I'm mostly interested in working in areas that aren't conventionally *numerical* at first glance. I am fascinated by **Computational Social Science**, an area which tries to marry computational techniques and the study of human-related phenomena.
 
@@ -14,7 +14,7 @@ After graduating, I joined **Ayannah**, a local fintech 📈 startup. As their f
 
 Soon after I became interested in text analytics and decided to focus on that area. I joined **Neuro Flash**, a German neuromarketing-AI 🧠 startup, where we help brands optimize their marketing campaigns to be on-point and on-brand using an interesting mix of NLP, Image Analytics, and Machine Learning.
 
-In terms of tools, I work mostly in **Python** for full-stack data science: data wrangling, data viz, model building, and API development. On the side, I also know a bit of **R** for stats and **D3.js** for interactive visualizations. Check out the [Data](https://piocalderon.github.io/data) and [Travel](https://piocalderon.github.io/travel/) tabs to see some cool viz!
+I work mostly in **Python** for full-stack data science: data wrangling, data viz, model building, and API development. Check out the [Data](https://piocalderon.github.io/data) and [Travel](https://piocalderon.github.io/travel/) tabs to see some cool viz!
 
 Aside from data science, I love to **explore new places**, both real and virtual... but due to the coronavirus situation, recently more of the latter.
 
